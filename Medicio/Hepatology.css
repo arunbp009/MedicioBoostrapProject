@@ -1,0 +1,43 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Hepatology{
+    line-height: 25px;
+}
+
+.Hepatology h3{
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #3fbbc0;
+    font-family: "Roboto", sans-serif;
+}
+.Hepatology i{
+    font-style: italic!important;
+    color:gray;
+    /* margin-bottom: 20px; */
+    font-size: 17px;
+}
+.Hepatologychild img{
+    width: 280px;
+    height: 250px;
+    padding: 5px;
+}
+.Hepatologychild{
+    display: flex;
+    margin-top: 15px;
+}
+.Hepatologychild p{
+    font-family: "Roboto", sans-serif;
+    color:gray;
+    margin-bottom: 20px;
+    font-size: 17px;
+    padding: 10px;
+
+}
+
+

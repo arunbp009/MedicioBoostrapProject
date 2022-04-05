@@ -1,0 +1,42 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Neurology{
+    line-height: 25px;
+  
+}
+
+.Neurology h3{
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #3fbbc0;
+    font-family: "Roboto", sans-serif;
+}
+.Neurology i{
+    font-style: italic!important;
+    color:gray;
+    /* margin-bottom: 20px; */
+    font-size: 17px;
+}
+.Neurologychild img{
+    width: 280px;
+    height: 250px;
+    padding: 5px;
+}
+.Neurologychild{
+    display: flex;
+    margin-top: 15px;
+}
+.Neurologychild p{
+    font-family: "Roboto", sans-serif;
+    color:gray;
+    margin-bottom: 20px;
+    font-size: 17px;
+    padding: 10px;
+
+}

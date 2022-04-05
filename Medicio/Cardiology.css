@@ -1,0 +1,43 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Cardiology{
+    line-height: 25px;
+   
+    
+}
+
+.Cardiology h3{
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #3fbbc0;
+    font-family: "Roboto", sans-serif;
+   
+}
+.Cardiologycontent p{
+    font-style: italic!important;
+    color:#777777;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+
+.Cardiologychild{
+    display: flex;
+}
+
+.Cardiologyimg img{
+    width: 280px;
+    height: 250px;
+}
+
+.Cardiologypara {
+    font-family: "Roboto", sans-serif;
+    color:#777777;
+    margin-left: 15px;
+    font-size: 17px;
+
+}
